@@ -1,3 +1,3 @@
-<img src='./am.png' width='350px'/>
+<img src='./am.png' width='600px'/>
 
 
