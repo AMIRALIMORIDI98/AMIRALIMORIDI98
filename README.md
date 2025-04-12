@@ -1,4 +1,4 @@
-<img src='./ggg.png'/>
+<img src='./ggg.png' />
 ## Hi there 👋
 
 <!--
